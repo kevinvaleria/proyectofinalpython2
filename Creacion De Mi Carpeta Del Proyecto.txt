@@ -1,0 +1,8 @@
+*** Creacion de mi carpeta del Proyecto ***
+
+Sigue los siguientes pasos para crear el proyecto final, no importado en que computadora se encuentre
+
+1. crea la carpeta ProyectoFinalKVAL, Em Documentos va esta carpeta.
+2.Descarga en tu repositorio el proyectofinal.py y las imagenes creadas
+3. Realiza los cambios y las actividades de cada leccion.
+4.-sube a tu Repositorio Proyectofinal.py con los cambios realizados.
