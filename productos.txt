@@ -1,0 +1,4 @@
+1|camisa blanca|200|ropan2|camisa blanca|200|ropa
+3|perfume|300|belleza
+4|rubor|200|belleza
+5|sudadera lila|100|ropa
